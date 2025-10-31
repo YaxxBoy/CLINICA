@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="es">
 <head>
   <meta charset="utf-8" />
@@ -490,7 +490,7 @@
             <p><strong>Teléfono</strong><br><a href="wa.me/573054395826" target="_blank" rel="noopener"> 305 4395826 </a></p>
             <p style="margin-top:8px"><strong>Email</strong><br>info@clinicamismascotas.com </p>
             <p style="margin-top:8px"><strong>Nota</strong><br>Para reservar, envía nombre, servicio deseado y fecha aproximada.</p>
-          </div>
+          
           
           </div>
         </div>
